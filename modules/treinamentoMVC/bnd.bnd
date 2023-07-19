@@ -1,0 +1,4 @@
+Bundle-Name: treinamentoMVC
+Bundle-SymbolicName: com.liferay.treinamentoMvc
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.treinamentoMvc.constants

@@ -1,0 +1,10 @@
+Bundle-Name: treinamento-api
+Bundle-SymbolicName: com.liferay.treinamento.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.liferay.treinamento.exception,\
+	com.liferay.treinamento.model,\
+	com.liferay.treinamento.service,\
+	com.liferay.treinamento.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../treinamento-service/service.xml
